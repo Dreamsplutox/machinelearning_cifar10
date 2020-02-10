@@ -4,8 +4,11 @@ Etude du dataset Cifar10
 ## :mag: Memebres
 
 > -Nathanel NIZONDET-RENAUD
+
 > -Arnaud SIMON pseudo Dreamplutox
+
 > -Ines IHOULINE 
+
 > -Hamza ESSAMAMI pseudo ESSAMAMI
 
 ## :building_construction: Architecture
