@@ -3,13 +3,13 @@ Etude du dataset Cifar10
 
 ## :mag: Membres
 
-> -Nathanel NIZONDET-RENAUD
+> - Nathanel NIZONDET-RENAUD
 
-> -Arnaud SIMON pseudo Dreamplutox
+> - Arnaud SIMON pseudo Dreamplutox
 
-> -Ines IHOULINE 
+> - Ines IHOULINE 
 
-> -Hamza ESSAMAMI pseudo ESSAMAMI
+> - Hamza ESSAMAMI pseudo ESSAMAMI
 
 ## :building_construction: Architecture
 * **Documentation** -> Contient les sites / ressources utilisées pour récupérer des informations utiles à la réalisation du projet
