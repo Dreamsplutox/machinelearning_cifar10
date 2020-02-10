@@ -1,0 +1,2 @@
+Layers;loss;optimizer;metrics;learningRate;epochs;batchSize;testName;indiv_id;valAccuracy;valLoss;trainAccuracy;trainLoss;runTime
+"{'neurons': 1, 'activation': 'tanh', 'dropOut': 0.3};{'neurons': 10, 'activation': 'softmax', 'dropOut': False}";categorical_crossentropy;Adam(lr=0.0001);accuracy;0.0001;35;50;Simple Linear Model;546304;0.18299999833106995;2.0810146498680115;0.156;2.134;00:02:47
