@@ -1,7 +1,7 @@
 # :label: machinelearning_cifar10
 Etude du dataset Cifar10
 
-## :mag: Memebres
+## :mag: Membres
 
 > -Nathanel NIZONDET-RENAUD
 
