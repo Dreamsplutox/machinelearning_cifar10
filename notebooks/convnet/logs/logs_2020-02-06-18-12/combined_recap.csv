@@ -1,0 +1,7 @@
+indiv_id,epochs,nb_layers,l1,l2,batch_norm,dropout,filters_per_layers,filters_double,MLP_end,activation,kernel,padding,max_or_avg_pool,pool_frequency,pool_frequency_change,loss,val_loss,accuracy,val_accuracy,time_taken,learning_r,momentum,optimizer,batch_size
+"1,50,8,0,0,0,0.1,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.155,0.798,0.946,0.812,1901.86,0.001,0.9,Adam,100.0"
+"2,50,8,0,0,0,0.2,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.271,0.632,0.905,0.828,1544.31,0.001,0.9,Adam,100.0"
+"3,50,8,0,0,0,0.3,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.39,0.521,0.863,0.835,1493.77,0.001,0.9,Adam,100.0"
+"4,50,8,0,0,0,0.4,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.504,0.608,0.827,0.806,1367.53,0.001,0.9,Adam,100.0"
+"5,50,8,0,0,0,0.5,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.642,0.601,0.785,0.804,1334.91,0.001,0.9,Adam,100.0"
+"6,50,8,0,0,0,0.6,64,0,128,relu,""(3, 3)"",same,avg,2,""(0, 0)"",0.866,0.875,0.707,0.703,1343.82,0.001,0.9,Adam,100.0"

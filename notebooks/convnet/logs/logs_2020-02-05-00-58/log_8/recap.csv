@@ -1,0 +1,2 @@
+indiv_id,epochs,batch_size,nb_layers,l1,l2,batch_norm,dropout,filters_per_layers,filters_double,MLP_end,activation,kernel,padding,max_or_avg_pool,pool_frequency,pool_frequency_change,loss,val_loss,accuracy,val_accuracy,time_taken,learning_r,momentum,optimizer
+8,50,100,16,0,0,0,0,32,-1,128,relu,"(3, 3)",same,avg,4,"(0, 0)",2.303,2.303,0.097,0.1,2399.37,0.001,0.9,Adam
