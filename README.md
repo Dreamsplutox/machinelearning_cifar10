@@ -16,7 +16,7 @@ Etude du dataset Cifar10
 * **equivalent_python** -> Contient quelques notebook au format py (utiles pour faire des review de nos codes) 
 * **notebooks** -> Contient les Notebooks Jupyter classés selon le type de modèle testé (linear, convnet, ...) ainsi que les différents logs obtenus
 
-## Sources
+## :package: Sources
 > https://www.tensorflow.org/api_docs/python/tf/keras
 > https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 > https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
